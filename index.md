@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome :bowtie:
 
-You can use the [editor on GitHub](https://github.com/tamirmendel/tamirmendel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Ph.D. student at [departmant of industrial engineering](https://en-engineering.tau.ac.il/), [Tel Aviv University](https://english.tau.ac.il/). I began my Ph.D. studies in 2017, advised by [Dr. Eran Toch](https://toch.tau.ac.il/?page_id=198). My research interests areas are in the fields of Human-Computer Interaction, Ubiquitous Computing, and Usable Security and Privacy. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tamirmendel/tamirmendel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The overarching goal of my doctoral research is to empower older adults and help them to make safe mobile secuirty and privacy decisions by leveraging their social connections assistance. Using mixed-methods approaches, I aim to understand older adults’ challenges and needs regarding how they interact with other people to receive assistacne on mobile security and privacy. Based on the understanding, I design, develop, and evaluate mobile applications that make the assistance interactions simple to use. 
