@@ -1,4 +1,4 @@
-## Welcome :bowtie:
+## About Me
 
 I am a Ph.D. student at [departmant of industrial engineering](https://en-engineering.tau.ac.il/), [Tel Aviv University](https://english.tau.ac.il/). I began my Ph.D. studies in 2017, advised by [Dr. Eran Toch](https://toch.tau.ac.il/?page_id=198). My research interests areas are in the fields of Human-Computer Interaction, Ubiquitous Computing, and Usable Security and Privacy. 
 
